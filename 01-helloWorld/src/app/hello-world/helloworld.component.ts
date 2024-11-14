@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'hello-world',
   standalone: true,
   template: `
-  <p>Hello World!</p>
+  <p>Meu primeiro Hello World!</p>
   `
 })
 export class HelloWorldComponent { }
